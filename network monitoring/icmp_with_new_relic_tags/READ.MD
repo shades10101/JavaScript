@@ -1,0 +1,1 @@
+Using tags, and the net-ping module, this synthetic is able to query new relic tags into an array. That array is then used in a function to resolve the hostnames into IPs. Then a function is used for the ping test.

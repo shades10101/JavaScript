@@ -1,0 +1,1 @@
+API call is made to API using new relic env variables as credentials. From there the response is saved into different variables where they can be conditioned upon, in my case I wanted to make sure that there was a token response and a HTTP 200. 
